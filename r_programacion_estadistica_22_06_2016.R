@@ -15,6 +15,8 @@ mi_funcion <- function(x,y, operacion = "suma") {
   }
 }
 
+
+
 indices <- NULL
 
 arriba_de <- function(x, limite) {
